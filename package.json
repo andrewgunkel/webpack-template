@@ -1,7 +1,7 @@
 {
-  "name": "odin-menu",
-  "version": "1.0.0",
-  "description": "https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page",
+  "name": "webpack-template",
+  "version": "1.2.0",
+  "description": "A simple webpack template for development and production builds.",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewgunkel/odin-menu.git"
+    "url": "git+https://github.com/andrewgunkel/webpack-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Gunkel",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/andrewgunkel/odin-menu/issues"
+    "url": "https://github.com/andrewgunkel/webpack-template/issues"
   },
-  "homepage": "https://github.com/andrewgunkel/odin-menu#readme",
+  "homepage": "https://github.com/andrewgunkel/webpack-template#readme",
   "devDependencies": {
     "css-loader": "^7.1.4",
     "html-loader": "^5.1.0",
